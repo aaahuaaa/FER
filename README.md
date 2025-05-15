@@ -1,3 +1,5 @@
+# FER —— DNN + DAN
+checkpoints和models下载连接：[baidunetdisk](https://pan.baidu.com/s/1VcVeDTwHY8QAu2_1l_Hzlg?pwd=1234) 提取码: 1234 <br>
 `项目根目录：（192.168.3.113服务器）"/civi/data/FER/DAN/" `<br>
 ## 项目结构
 ```
